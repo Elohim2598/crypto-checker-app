@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-checker-app/static/css/main.cb26c796.css",
+    "main.js": "/crypto-checker-app/static/js/main.62bec754.js",
+    "index.html": "/crypto-checker-app/index.html",
+    "main.cb26c796.css.map": "/crypto-checker-app/static/css/main.cb26c796.css.map",
+    "main.62bec754.js.map": "/crypto-checker-app/static/js/main.62bec754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb26c796.css",
+    "static/js/main.62bec754.js"
+  ]
+}
